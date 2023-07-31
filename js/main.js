@@ -3,16 +3,7 @@
 // Compra de articulos Gaming 
 
 
-/*  
-pasos a seguir:
 
-- definir un usuario-
-- login (Nombre, Apellido, Edad, DNI)
-- Saludar y mostrar la data del usuario
-- crear opciones de compra con sus precios
-- permitir confirmar compra o cancelar con mensaje
-
-*/
 
 
 let usuario = "Geronimo"
